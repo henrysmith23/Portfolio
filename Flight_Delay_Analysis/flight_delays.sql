@@ -1,7 +1,7 @@
-/*The dataset used in the below analysis contained only late flights. For further late 
-flightexploration and greater detail, on-time flight data during the same time period should be 
-used in conjunction with the plane_data.csv data to identify percentages of late flights by 
-flight categories*/
+/*The dataset used in the below analysis contains only late flights. For further late flight
+exploration and greater detail, on-time flight data during the same time period should be used 
+in conjunction with the plane_data.csv data to identify percentages of late flights by flight 
+categories*/
 
 
 /*Percentage of Carrier and Late Aircraft 
